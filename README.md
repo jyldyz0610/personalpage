@@ -1,6 +1,6 @@
 # personalpage.io
 
 
-# https://jyldyz0610.github.io/personalpage.io
+# https://jyldyz0610.github.io/personalpage
 
 testetshegfz
