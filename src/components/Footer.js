@@ -14,6 +14,7 @@ const Footer = () => {
           <li><a href="https://github.com/jyldyz0610?tab=repositories"><FontAwesomeIcon icon={faGithub} /></a></li>
           <li><a href="https://www.linkedin.com/in/zhyldyz-anarkul/"><FontAwesomeIcon icon={faLinkedin} /></a></li>
           <li><a href="mailto:jyldyz0610@gmail.com"><FontAwesomeIcon icon={faEnvelope} /></a></li> {/* Gmail-Link */}
+          <li><a href="https://medium.com/@jyldyz0610/verwendung-von-terraform-und-ansible-gemeinsam-bereitstellung-mit-terraform-und-konfiguration-mit-e985fe049703">Medium Article</a></li> {/* Link zu deinem Medium-Artikel */}
         </ul>
       </nav>
       <p>&copy; 2024 Zhyldyz</p>
