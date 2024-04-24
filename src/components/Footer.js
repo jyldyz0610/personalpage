@@ -1,4 +1,3 @@
-// Footer.js
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
@@ -6,7 +5,7 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 
 const Footer = () => {
   return (
-    <footer style={{ backgroundColor: '#333', color: '#fff', padding: '10px', textAlign: 'center' }}>
+    <footer style={{ backgroundColor: '#333', color: '#fff', padding: '10px', textAlign: 'center', marginTop: 'auto' }}>
       
       <nav>
         <ul>
